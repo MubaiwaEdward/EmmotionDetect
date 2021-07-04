@@ -10,4 +10,4 @@ opencv-contrib-python==4.5.2.52
 opencv-python==4.5.2.54
 streamlit-webrtc==0.20.1
 tensorflow==2.5.0
-tensorflow-gpu==2.5.0
+

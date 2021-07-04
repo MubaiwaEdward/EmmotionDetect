@@ -1,13 +1,8 @@
 streamlit==0.82.0
-pandas==1.2.4
-matplotlib==3.4.2
-matplotlib-inline==0.1.2
 Pillow==8.2.0
 opencv-python-headless==4.5.2.54
 palettable==3.3.0
-Keras==2.4.3
 opencv-contrib-python==4.5.2.52
 opencv-python==4.5.2.54
-streamlit-webrtc==0.20.1
 tensorflow-cpu==2.5.0
 

@@ -12,7 +12,7 @@ import tensorflow as tf
 import matplotlib.pyplot as plt 
 
 
-st.set_page_config(page_title="Search for Objects in Video.", page_icon=":desktop_computer:")
+st.set_page_config(page_title="Search for Objects in Image.", page_icon=":desktop_computer:")
 st.title('Detect Emmotions in Image')
 
 
